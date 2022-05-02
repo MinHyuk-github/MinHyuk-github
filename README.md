@@ -1,2 +1,2 @@
-### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/DanielYY95/borampms)
+## 첫걸음
+2021년 10월 28일부터 개발공부를 시작해 개발자의 길을 걷고 싶은 조민혁입니다!! 
